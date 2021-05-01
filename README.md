@@ -46,8 +46,8 @@ Com o focor no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e apro
 
 <br />
 - Trabalho com react desde março de 2020.
-- Atualmente trabalho na Ambar tech, conheça clicando [here](https://ambar.tech) para construirmos um futuro simples. Quer fazer parte do time? Clique [here](https://jobs.kenoby.com/ambartech/job/desenvolvedor-front-end-100-remoto/606233a75379cd6cc6f6cdc9?utm_source=website).
-- Nas horas vagas tenho um time e fazemos freelas desde 2020 alguns apps: Lanchas vida [here](https://play.google.com/store/apps/details?id=lanchasvida.com), Acreditar - crédito simples [here](https://play.google.com/store/apps/details?id=com.finnancierappacreditar), Colabz [here](https://play.google.com/store/apps/details?id=br.com.oficial.colabz), Marcos Moraes[here](https://play.google.com/store/apps/details?id=com.marcosmoraes), Diet system [here](https://play.google.com/store/apps/details?id=com.marcosmoraes), caso queira conhecer mais sobre nossos projetos entrem em contato <3.
+- Atualmente trabalho na Ambar tech, para construirmos um futuro simples. https://ambar.tech 
+- Nas horas vagas tenho um time e fazemos freelas desde 2020 alguns apps: <a href="https://play.google.com/store/apps/details?id=lanchasvida.com" target="_blank">Lanchas vida </a>, <a href="https://play.google.com/store/apps/details?id=com.finnancierappacreditar" target="_blank">Acreditar - crédito simples</a>, <a href="https://play.google.com/store/apps/details?id=br.com.oficial.colabz" target="_blank">Colabz</a>, <a href="https://play.google.com/store/apps/details?id=com.marcosmoraes" target="_blank">Marcos Moraes</a>,<a href="https://play.google.com/store/apps/details?id=com.dietsystemappuser" target="_blank"> Diet</a>, caso queira conhecer mais sobre nossos projetos entrem em contato <3.
 
 <br />
 
