@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigogomes_araujo/)
 </span>
 
-## Feliz Por ver Você Aqui!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rodrigogaraujo)
+## Feliz por ver você aqui!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rodrigogaraujo)
 
 <div align="center">
 
@@ -15,14 +15,14 @@
 
 </div>
 
-### Sobre Mim!
+### Sobre mim!
 
 <p align="center">
 
 Sou Rodrigo Araújo,<strong>Tecnologista e autodidata🤗.</strong> <br />
-<strong>Desenvolvedor de Software</strong>,Tenho uma atração pelo <strong> Desenvolvimento WEB 🖥</strong> e <strong> Desenvolvimento Mobile📱</strong>.<br />
+<strong>Desenvolvedor de Software</strong>,Tenho uma atração pelo <strong> Desenvolvimento WEB 🖥 </strong> e <strong> Desenvolvimento Mobile📱</strong>.<br />
 No backend atualmente trabalho com node utilizando o adonis e pretendo aprender python. <br />
-Aberto para conhecer novas pessoas e culturas, ganhar novas Habilidades para crescimento pessoal/profissional <br />
+Aberto para conhecer novas pessoas e culturas, ganhar novas habilidades para crescimento pessoal/profissional <br />
 Com o focor no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real ✨.
 
 </p>
@@ -31,13 +31,13 @@ Com o focor no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e apro
 
 <span align="left">
 
-## Sobre Minhas Stuffs:
+## Sobre minhas stuffs:
 
 <br />
 
-- 🛠 &nbsp; Estou Trabalhando atualmente com React, React native, Node, Mysql, Postgres, Mongodb, dentre outras tecnologias.<br />
-- 👦🏽‍💻 &nbsp; Meus Canais de Aprendizagem RocketSeat, Udemy, Medium, Devmedia com aquela força marota do Google e do stackoverflow.<br/>
-- 💬 💌 &nbsp; Me Pergunte Algo [here](https://github.com/rodrigogaraujo/rodrigogaraujo/issues/1)! Estou Feliz Por Ajudar😃.<br/>
+- 🛠 &nbsp; Estou trabalhando atualmente com React, React native, Node, Mysql, Postgres, Mongodb, dentre outras tecnologias.<br />
+- 👦🏽‍💻 &nbsp; Meus canais de aprendizagem RocketSeat, Udemy, Medium, Devmedia com aquela força marota do Google e do stackoverflow.<br/>
+- 💬 💌 &nbsp; Me pergunte algo [here](https://github.com/rodrigogaraujo/rodrigogaraujo/issues/1)! Estou feliz por ajudar😃.<br/>
 - 📫 &nbsp; Contate-me: rodrigoaraujo@gmail.com
 
 <br />
@@ -46,12 +46,12 @@ Com o focor no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e apro
 
 <br />
 - Trabalho com react desde março de 2020.
-- Atualmente trabalho na [Ambar tech](https://ambar.tech/) para construirmos um futuro simples. Quer fazer parte do time? Vem pra [cá](https://jobs.kenoby.com/ambartech/job/desenvolvedor-front-end-100-remoto/606233a75379cd6cc6f6cdc9?utm_source=website).
-- Nas horas vagas tenho um time e fazemos freelas desde 2020 alguns apps: [lanchas vida](https://play.google.com/store/apps/details?id=lanchasvida.com), [acreditar - crédito simples](https://play.google.com/store/apps/details?id=com.finnancierappacreditar), [colabz](https://play.google.com/store/apps/details?id=br.com.oficial.colabz), [marcos moraes](https://play.google.com/store/apps/details?id=com.marcosmoraes), [diet system](https://play.google.com/store/apps/details?id=com.marcosmoraes), caso queira conhecer mais sobre nossos projetos entrem em contato <3.
+- Atualmente trabalho na Ambar tech, conheça clicando [here](https://ambar.tech) para construirmos um futuro simples. Quer fazer parte do time? Clique [here](https://jobs.kenoby.com/ambartech/job/desenvolvedor-front-end-100-remoto/606233a75379cd6cc6f6cdc9?utm_source=website).
+- Nas horas vagas tenho um time e fazemos freelas desde 2020 alguns apps: Lanchas vida [here](https://play.google.com/store/apps/details?id=lanchasvida.com), Acreditar - crédito simples [here](https://play.google.com/store/apps/details?id=com.finnancierappacreditar), Colabz [here](https://play.google.com/store/apps/details?id=br.com.oficial.colabz), Marcos Moraes[here](https://play.google.com/store/apps/details?id=com.marcosmoraes), Diet system [here](https://play.google.com/store/apps/details?id=com.marcosmoraes), caso queira conhecer mais sobre nossos projetos entrem em contato <3.
 
 <br />
 
-## O que estou Aprendendo:
+## O que estou aprendendo:
 
 <br />
 
@@ -94,16 +94,16 @@ Com o focor no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e apro
   <br />
   <summary><b>⚙️ Equipamento De Trabalho</b></summary>
   	<ul>
-  	    <li><b>OS:</b> High Sierra</li>
+  	    <li><b>OS:</b> High sierra</li>
 	      <li><b>Laptop: </b> Macbook air</li>
-  	    <li><b>Browser: </b> Web Browser Chrome</li>
+  	    <li><b>Browser: </b> Web browser chrome</li>
 	      <li><b>Editor de Codigos:</b> VScode</li>
 	  </ul>	
 </details>
 
 <details>
   <br />
-    <summary><strong>🌟 Status do Perfil</strong></summary>
+    <summary><strong>🌟 Status do perfil</strong></summary>
     <ul>
         <li> <img width="400" src="https://github-readme-stats.vercel.app/api?username=rodrigogaraujo&show_icons=true&theme=tokyonight&line_height=27" alt="ProfileStatus"></li>
         <li> <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogaraujo&hide=css,java,html&theme=tokyonight" alt="LanguageStatus"> </li>
