@@ -94,9 +94,9 @@ Com o focor no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e apro
   <br />
   <summary><b>⚙️ Equipamento De Trabalho</b></summary>
   	<ul>
-  	    <li><b>OS:</b> High sierra</li>
-	      <li><b>Laptop: </b> Macbook air</li>
-  	    <li><b>Browser: </b> Web browser chrome</li>
+  	    <li><b>OS:</b> Big Sur</li>
+	      <li><b>Laptop: </b> Hackintosh - i9 - 32gb de ram - ssd 500gb</li>
+  	    <li><b>Browser: </b> Web browser chrome/safari</li>
 	      <li><b>Editor de Codigos:</b> VScode</li>
 	  </ul>	
 </details>
