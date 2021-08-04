@@ -9,12 +9,33 @@
 
 ## Feliz por ver você aqui!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rodrigogaraujo)
 
-<div align="center">
-
-<img src="https://miro.medium.com/max/480/1*29HkFHUxeqq0xqO14IqVaw.gif" width="700px" />
-
-</div>
-
+### Apps que desenvolvi e publiquei
+<p align="right">
+ <a href="https://play.google.com/store/apps/details?id=com.apportopedia" target="_blank">Ortopedia OQM</a>
+ Estude sobre ortopedia no app da Ortopedia OQM
+</p>
+<p align="right">
+ <a href="https://play.google.com/store/apps/details?id=com.app20" target="_blank">App 20</a>  Ganhe pontos ao realizar compras em alguma loja da franquia do App20
+</p>
+<p align="right">
+ <a href="https://play.google.com/store/apps/details?id=com.myhairapp" target="_blank">MyHair</a> Realize compras de cabelos (Estou desenvolvendo novas features e dando fix em alguns bugs)
+</p>
+<p align="right">
+ <a href="https://play.google.com/store/apps/details?id=com.pompuarapp" target="_blank">Pompoar</a> Para mulheres
+</p>
+<p align="right">
+ <a href="https://play.google.com/store/apps/details?id=com.marcosmoraes" target="_blank">Marcos Moraes</a> Estude para concurso (refatorei todo o código e o app agr está em uma versão nova)
+</p>
+<p align="right">
+ <a href="https://play.google.com/store/apps/details?id=com.finnancierappacreditar" target="_blank">Acreditar - Crédito simples</a> Simule emprestimos e receba propostas (caso queira)
+</p>
+<p align="right">
+ <a href="https://play.google.com/store/apps/details?id=com.appreciclar" target="_blank">Telite - Reciclar</a> Recicle materiais e troque por produtos ou dinheiro
+</p>
+<p align="right">
+ Vem por ai: Carolina bandeira - clinicas da franquia. Vai mobi - solicite um moto táxi. Associação de Feirantes - Que tal preencher sua sacola de compras de casa?. Guinchos Dom miguel - App para motoristas da franquia.	
+</p>
+ 
 ### Sobre mim!
 
 <p align="center">
