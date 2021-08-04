@@ -35,7 +35,9 @@
 <p align="left">
  Vem por ai: Carolina bandeira - clinicas da franquia. Vai mobi - solicite um moto táxi. Associação de Feirantes - Que tal preencher sua sacola de compras de casa?. Guinchos Dom miguel - App para motoristas da franquia.	
 </p>
- 
+<br />
+<br />
+<br />
 ### Sobre mim!
 
 <p align="center">
@@ -77,18 +79,6 @@ Com o focor no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e apro
 <br />
 
 - <img height="40" src="https://img.icons8.com/color/48/000000/flutter.png"/> &nbsp; Flutter - novo bootcamp da rocketseat.
-
-<br />
-
-## Meus Favoritos:
-
-<br />
-
-- 💻 &nbsp; Participar de novos desafios.<br />
-- 📰 &nbsp; Descobrir novas tecnologias.<br />
-- 🛩 &nbsp; Viajar e conhecer novos lugares.<br />
-
-</span>
 
 <br />
 
