@@ -33,7 +33,13 @@
  <a href="https://play.google.com/store/apps/details?id=com.appreciclar" target="_blank">Telite - Reciclar</a> Recicle materiais e troque por produtos ou dinheiro
 </p>
 <p align="left">
- Vem por ai: Carolina bandeira - clinicas da franquia. Vai mobi - solicite um moto táxi. Associação de Feirantes - Que tal preencher sua sacola de compras de casa?. Guinchos Dom miguel - App para motoristas da franquia.	
+ <a href="https://play.google.com/store/apps/details?id=com.carolina_bandeira_pacientes" target="_blank">Carolina bandeira</a> Clinicas da franquia
+</p>
+<p align="left">
+ <a href="https://play.google.com/store/apps/details?id=com.cemfilas.cemfilas" target="_blank">100filas</a> Agende horários em estabelecimentos sem sair de casa
+</p>
+<p align="left">
+ Vai mobi - solicite um moto táxi. Associação de Feirantes - Que tal preencher sua sacola de compras de casa?. Guinchos Dom miguel - App para motoristas da franquia.	
 </p>
 <br />
 <br />
