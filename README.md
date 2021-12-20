@@ -1,58 +1,53 @@
 <span align="center">
 
-# 👋🏽 Olá sejam bem-vindos(a)!
+# 👋🏽 Welcome!
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rodrigoaraujo@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-g-araujo/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigogomes_araujo/)
 </span>
 
-## Feliz por ver você aqui!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rodrigogaraujo)
+## I'm happy with you here  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rodrigogaraujo)
 
-### Apps que desenvolvi e publiquei
+### Apps I developed
 <p align="left">
  <a href="https://play.google.com/store/apps/details?id=com.apportopedia" target="_blank">Ortopedia OQM</a>
- Estude sobre ortopedia no app da Ortopedia OQM
+ Orthopedics quiz app
 </p>
 <p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.app20" target="_blank">App 20</a>  Ganhe pontos ao realizar compras em alguma loja da franquia do App20
+ <a href="https://play.google.com/store/apps/details?id=com.app20" target="_blank">App 20</a> Earn points and use at app20 franchise stores
 </p>
 <p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.myhairapp" target="_blank">MyHair</a> Realize compras de cabelos (Estou desenvolvendo novas features e dando fix em alguns bugs)
+ <a href="https://play.google.com/store/apps/details?id=com.myhairapp" target="_blank">MyHair</a> Make hair purchases (I'm developing new features and fixing some bugs)
 </p>
 <p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.pompuarapp" target="_blank">Pompoar</a> Para mulheres
+ <a href="https://play.google.com/store/apps/details?id=com.pompuarapp" target="_blank">Pompoar</a> For womans
 </p>
 <p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.marcosmoraes" target="_blank">Marcos Moraes</a> Estude para concurso (refatorei todo o código e o app agr está em uma versão nova)
+ <a href="https://play.google.com/store/apps/details?id=com.marcosmoraes" target="_blank">Marcos Moraes</a> Study for the contest (I refactored all the code and the agr app is in a new version)
 </p>
 <p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.finnancierappacreditar" target="_blank">Acreditar - Crédito simples</a> Simule emprestimos e receba propostas (caso queira)
+ <a href="https://play.google.com/store/apps/details?id=com.finnancierappacreditar" target="_blank">Acreditar - Crédito simples</a> Simulate loans and receive proposals (if you want)
 </p>
 <p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.appreciclar" target="_blank">Telite - Reciclar</a> Recicle materiais e troque por produtos ou dinheiro
+ <a href="https://play.google.com/store/apps/details?id=com.appreciclar" target="_blank">Telite - Reciclar</a> Recycle materials and exchange for products or money
 </p>
 <p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.carolina_bandeira_pacientes" target="_blank">Carolina bandeira</a> Clinicas da franquia
+ <a href="https://play.google.com/store/apps/details?id=com.carolina_bandeira_pacientes" target="_blank">Carolina bandeira</a> Franchise clinics
 </p>
 <p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.cemfilas.cemfilas" target="_blank">100filas</a> Agende horários em estabelecimentos sem sair de casa
-</p>
-<p align="left">
- Vai mobi - solicite um moto táxi. Associação de Feirantes - Que tal preencher sua sacola de compras de casa?. Guinchos Dom miguel - App para motoristas da franquia.	
+ <a href="https://play.google.com/store/apps/details?id=com.cemfilas.cemfilas" target="_blank">100filas</a> Schedule times at establishments without leaving your home
 </p>
 <br />
 <br />
 <br />
-### Sobre mim!
+### About me
 
-<p align="center">
-
-Sou Rodrigo Araújo,<strong>Tecnologista e autodidata🤗.</strong> <br />
-<strong>Desenvolvedor de Software</strong>,Tenho uma atração pelo <strong> Desenvolvimento WEB 🖥 </strong> e <strong> Desenvolvimento Mobile📱</strong>.<br />
-No backend atualmente trabalho com node utilizando o adonis e pretendo aprender python. <br />
-Aberto para conhecer novas pessoas e culturas, ganhar novas habilidades para crescimento pessoal/profissional <br />
-Com o focor no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real ✨.
+<p align="center">I'm Rodrigo Araújo,<strong>Technologist and self-taught🤗.</strong> <br />
+<strong>Software Developer</strong>, I'm attracted to <strong>WEB Development🖥</strong> and <strong>Mobile Development📱</strong>.<br />
+On the backend I currently work with node using adonis and intend to learn python. <br />
+Open to meet new people and cultures, gain new skills for personal/professional growth <br />
+With a focus on self-development🏆. I love exploring new technologies and taking advantage of them to solve real-life problems ✨.
 
 </p>
 
@@ -64,27 +59,19 @@ Com o focor no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e apro
 
 <br />
 
-- 🛠 &nbsp; Estou trabalhando atualmente com React, React native, Node, Mysql, Postgres, Mongodb, dentre outras tecnologias.<br />
-- 👦🏽‍💻 &nbsp; Meus canais de aprendizagem RocketSeat, Udemy, Medium, Devmedia com aquela força marota do Google e do stackoverflow.<br/>
-- 💬 💌 &nbsp; Me pergunte algo [here](https://github.com/rodrigogaraujo/rodrigogaraujo/issues/1)! Estou feliz por ajudar😃.<br/>
-- 📫 &nbsp; Contate-me: rodrigoaraujo@gmail.com
+- 🛠 &nbsp; I'm currently working with React, React native, Node, Mysql, Postgres, Mongodb, among other technologies.<br />
+- 👦🏽‍💻 &nbsp; My learning channels: RocketSeat, Udemy, Medium, Devmedia with that naughty force of Google and stackoverflow.<br/>
+- 💬 💌 &nbsp; Ask me something [here](https://github.com/rodrigogaraujo/rodrigogaraujo/issues/1)! I'm happy to help 😃.<br/>
+- 📫 &nbsp; Contact me: rodrigoaraujo@gmail.com
 
 <br />
 
-## Sobre o trabalho:
+## About the work:
 
 <br />
-- Trabalho com react desde fevereiro de 2020. <br />
-- Atualmente trabalho no Canal 88, para melhorar as finanças do brasileiro (previsão de lançamento do app em 2022)  <br />
-- Nas horas vagas tenho um time e fazemos freelas desde 2020 alguns apps: <a href="https://play.google.com/store/apps/details?id=lanchasvida.com" target="_blank">Lanchas vida </a>, <a href="https://play.google.com/store/apps/details?id=com.finnancierappacreditar" target="_blank">Acreditar - crédito simples</a>, <a href="https://play.google.com/store/apps/details?id=br.com.oficial.colabz" target="_blank">Colabz</a>, <a href="https://play.google.com/store/apps/details?id=com.marcosmoraes" target="_blank">Marcos Moraes</a>, dentre outros. Caso queira conhecer mais sobre nossos projetos entrem em contato <3.
-
-<br />
-
-## O que estou aprendendo:
-
-<br />
-
-- <img height="40" src="https://img.icons8.com/color/48/000000/flutter.png"/> &nbsp; Flutter - novo bootcamp da rocketseat.
+- I've been working with react since February 2020. <br />
+- I'm currently working on Canal 88, to improve the Brazilian's finances (the app is scheduled to be launched in 2022)  <br />
+- In my spare time I have a team and we do freelance since 2020 some apps. If you want to know more about our projects, please contact.
 
 <br />
 
@@ -105,32 +92,13 @@ Com o focor no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e apro
 
 <br />
 
-<hr />
-
-<details>	
-  <br />
-  <summary><b>⚙️ Equipamento De Trabalho</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Big Sur</li>
-	      <li><b>Laptop: </b> Hackintosh - i9 - 32gb de ram - ssd 500gb</li>
-  	    <li><b>Browser: </b> Web browser chrome/safari</li>
-	      <li><b>Editor de Codigos:</b> VScode</li>
-	  </ul>	
-</details>
-
 <details>
   <br />
-    <summary><strong>🌟 Status do perfil</strong></summary>
+    <summary><strong>🌟 Profile status</strong></summary>
     <ul>
         <li> <img width="400" src="https://github-readme-stats.vercel.app/api?username=rodrigogaraujo&show_icons=true&theme=tokyonight&line_height=27" alt="ProfileStatus"></li>
         <li> <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogaraujo&hide=css,java,html&theme=tokyonight" alt="LanguageStatus"> </li>
     </ul>
 </details>
-
-
-
-<hr />
-
-## Mostre Que ❤️ Dando Um Follow e <br />Marcando Algum Repositorios, Obrigado🙏🏾!
 
 
