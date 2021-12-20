@@ -39,23 +39,12 @@
  <a href="https://play.google.com/store/apps/details?id=com.cemfilas.cemfilas" target="_blank">100filas</a> Schedule times at establishments without leaving your home
 </p>
 <br />
-<br />
-<br />
-### About me
-
-<p align="center">I'm Rodrigo Araújo,<strong>Technologist and self-taught🤗.</strong> <br />
-<strong>Software Developer</strong>, I'm attracted to <strong>WEB Development🖥</strong> and <strong>Mobile Development📱</strong>.<br />
-On the backend I currently work with node using adonis and intend to learn python. <br />
-Open to meet new people and cultures, gain new skills for personal/professional growth <br />
-With a focus on self-development🏆. I love exploring new technologies and taking advantage of them to solve real-life problems ✨.
-
-</p>
 
 <br />
 
 <span align="left">
 
-## Sobre minhas stuffs:
+## About my stuffs:
 
 <br />
 
