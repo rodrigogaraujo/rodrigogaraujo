@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigogomes_araujo/)
 </span>
 
-## I'm happy with you here  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rodrigogaraujo)
+## I'm happy that you're here  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rodrigogaraujo)
 
 ### Apps I developed
 <p align="left">
