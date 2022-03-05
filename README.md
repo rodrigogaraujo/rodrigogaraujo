@@ -51,7 +51,7 @@
 - 🛠 &nbsp; I'm currently working with React, React native, Node, Mysql, Postgres, Mongodb, among other technologies.<br />
 - 👦🏽‍💻 &nbsp; My learning channels: RocketSeat, Udemy, Medium, Devmedia with that naughty force of Google and stackoverflow.<br/>
 - 💬 💌 &nbsp; Ask me something [here](https://github.com/rodrigogaraujo/rodrigogaraujo/issues/1)! I'm happy to help 😃.<br/>
-- 📫 &nbsp; Contact me: rodrigoaraujo@gmail.com
+- 📫 &nbsp; Contact me: rodrigoaraujo990@gmail.com
 
 <br />
 
