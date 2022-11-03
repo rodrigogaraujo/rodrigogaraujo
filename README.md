@@ -59,7 +59,6 @@
 
 <br />
 - I've been working with react since February 2020. <br />
-- I'm currently working on Canal 88, to improve the Brazilian's finances (the app is scheduled to be launched in 2022)  <br />
 
 <br />
 
