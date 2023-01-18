@@ -15,10 +15,7 @@
  Orthopedics quiz app
 </p>
 <p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.app20" target="_blank">App 20</a> Earn points and use at app20 franchise stores
-</p>
-<p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.myhairapp" target="_blank">MyHair</a> Make hair purchases (I'm developing new features and fixing some bugs)
+ <a href="https://play.google.com/store/apps/details?id=com.myhairapp" target="_blank">MyHair</a> Make hair purchases
 </p>
 <p align="left">
  <a href="https://play.google.com/store/apps/details?id=com.pompuarapp" target="_blank">Pompoar</a> For womans
@@ -27,16 +24,7 @@
  <a href="https://play.google.com/store/apps/details?id=com.marcosmoraes" target="_blank">Marcos Moraes</a> Study for the contest (I refactored all the code and the agr app is in a new version)
 </p>
 <p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.finnancierappacreditar" target="_blank">Acreditar - Crédito simples</a> Simulate loans and receive proposals (if you want)
-</p>
-<p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.appreciclar" target="_blank">Telite - Reciclar</a> Recycle materials and exchange for products or money
-</p>
-<p align="left">
  <a href="https://play.google.com/store/apps/details?id=com.carolina_bandeira_pacientes" target="_blank">Carolina bandeira</a> Franchise clinics
-</p>
-<p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.cemfilas.cemfilas" target="_blank">100filas</a> Schedule times at establishments without leaving your home
 </p>
 <br />
 
@@ -48,7 +36,7 @@
 
 <br />
 
-- 🛠 &nbsp; I'm currently working with React, React native, Node, Mysql, Postgres, Mongodb, among other technologies.<br />
+- 🛠 &nbsp; I'm currently working with React, React native, Node, Typescript, Mysql, Postgres, Mongodb, among other technologies.<br />
 - 👦🏽‍💻 &nbsp; My learning channels: RocketSeat, Udemy, Medium, Devmedia with that naughty force of Google and stackoverflow.<br/>
 - 💬 💌 &nbsp; Ask me something [here](https://github.com/rodrigogaraujo/rodrigogaraujo/issues/1)! I'm happy to help 😃.<br/>
 - 📫 &nbsp; Contact me: rodrigoaraujo990@gmail.com
