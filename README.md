@@ -11,24 +11,24 @@
 
 ### Apps I developed
 <p align="left">
- <a href="https://play.google.com/store/apps/details?id=app.ensinae" target="_blank">Ortopedia OQM</a>
- Ensiae (my app)
+ <a href="https://play.google.com/store/apps/details?id=app.ensinae" target="_blank">Ensinae</a>
+ (my app)
 </p>
 <p align="left">
  <a href="https://play.google.com/store/apps/details?id=com.apportopedia" target="_blank">Ortopedia OQM</a>
  Orthopedics quiz app as freelancer
 </p>
 <p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.myhairapp" target="_blank">MyHair</a> Make hair purchases
+ <a href="https://play.google.com/store/apps/details?id=com.myhairapp" target="_blank">MyHair</a> Make hair purchases as freelancer
 </p>
 <p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.pompuarapp" target="_blank">Pompoar</a> For womans
+ <a href="https://play.google.com/store/apps/details?id=com.pompuarapp" target="_blank">Pompoar</a> For womans as freelancer
 </p>
 <p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.marcosmoraes" target="_blank">Marcos Moraes</a> Study for the contest (I refactored all the code and the agr app is in a new version)
+ <a href="https://play.google.com/store/apps/details?id=com.marcosmoraes" target="_blank">Marcos Moraes</a> Study for the contest (I refactored all the code and the agr app is in a new version) as freelancer
 </p>
 <p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.carolina_bandeira_pacientes" target="_blank">Carolina bandeira</a> Franchise clinics
+ <a href="https://play.google.com/store/apps/details?id=com.carolina_bandeira_pacientes" target="_blank">Carolina bandeira</a> Franchise clinics as freelancer
 </p>
 <br />
 
