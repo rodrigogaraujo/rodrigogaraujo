@@ -11,8 +11,12 @@
 
 ### Apps I developed
 <p align="left">
+ <a href="https://play.google.com/store/apps/details?id=app.ensinae" target="_blank">Ortopedia OQM</a>
+ Ensiae (my app)
+</p>
+<p align="left">
  <a href="https://play.google.com/store/apps/details?id=com.apportopedia" target="_blank">Ortopedia OQM</a>
- Orthopedics quiz app
+ Orthopedics quiz app as freelancer
 </p>
 <p align="left">
  <a href="https://play.google.com/store/apps/details?id=com.myhairapp" target="_blank">MyHair</a> Make hair purchases
@@ -36,7 +40,7 @@
 
 <br />
 
-- 🛠 &nbsp; I'm currently working with React, React native, Node, Typescript, Mysql, Postgres, Mongodb, among other technologies.<br />
+- 🛠 &nbsp; I'm currently working with React, React native, Swift, Node, Typescript, Mysql, Postgres, Mongodb, among other technologies.<br />
 - 👦🏽‍💻 &nbsp; My learning channels: RocketSeat, Udemy, Medium, Devmedia with that naughty force of Google and stackoverflow.<br/>
 - 💬 💌 &nbsp; Ask me something [here](https://github.com/rodrigogaraujo/rodrigogaraujo/issues/1)! I'm happy to help 😃.<br/>
 - 📫 &nbsp; Contact me: rodrigoaraujo990@gmail.com
@@ -46,7 +50,7 @@
 ## About the work:
 
 <br />
-- I've been working with react since February 2020. <br />
+- I've been working with react since november of 2019. <br />
 
 <br />
 
