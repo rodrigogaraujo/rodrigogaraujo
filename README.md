@@ -1,83 +1,36 @@
-<span align="center">
+# Rodrigo Araújo
 
-# 👋🏽 Welcome!
+**Senior Full-Stack & AI Engineer** · Brazil · Remote since 2019
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rodrigoaraujo@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-g-araujo/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigogomes_araujo/)
-</span>
+I build web, mobile and AI products end to end, from the database schema to the app store release, including the LLM pipelines in between. I have been shipping production software for startups, enterprise clients and the public sector since 2019. Before that, I spent six years running my own ISP and software company.
 
-## I'm happy that you're here  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rodrigogaraujo)
+### Now
 
-### Apps I developed
-<p align="left">
- <a href="https://play.google.com/store/apps/details?id=app.ensinae" target="_blank">Ensinae</a>
- (my app)
+- **Founder of uAImed**, an AI study platform for medical students: lecture transcription, RAG-based Q&A, quizzes, spaced-repetition flashcards and a WhatsApp assistant.
+- **Healthcare**: patient eDiary platform (web, API and mobile) for an international client.
+- **Public sector**: budget transparency, fleet fuel control and school transport systems for municipalities.
+- **Agribusiness**: pricing and harvest forecasting systems.
+- Postgraduate studies in Software Engineering (PUC Minas) and Full-Stack with Applied AI (Rocketseat).
+
+### What I do
+
+- **AI / LLM systems**: RAG on pgvector, LangChain and LangGraph agents with tool calling, multi-provider model routing with fallback, evals and guardrails.
+- **Backend**: Node.js and TypeScript (Fastify, NestJS), Python (FastAPI), PostgreSQL, Redis, BullMQ, DDD and Clean Architecture.
+- **Frontend & mobile**: React, Next.js, React Native (Expo and bare), Tailwind, shadcn/ui.
+- **Delivery**: Docker, CI/CD (GitHub Actions, Azure DevOps, Bitbucket Pipelines), AWS, automated tests from unit to Playwright E2E.
+
+### Highlights
+
+- Led the rewrite of a consumer mobile app that took its store rating from 2.0 to 4.5+.
+- Built a satellite-pointing app used by Sky and Claro field technicians across Brazil.
+- Worked on a micro-frontend architecture (Single SPA) for Brazil's largest construtech, and on Heineken's trade portal and mobile app.
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,react,nextjs,tailwind,nestjs,fastapi,postgres,redis,prisma,mongodb,docker,aws,githubactions&perline=15" alt="TypeScript, Node.js, Python, React, Next.js, Tailwind, NestJS, FastAPI, PostgreSQL, Redis, Prisma, MongoDB, Docker, AWS, GitHub Actions" />
 </p>
-<p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.apportopedia" target="_blank">Ortopedia OQM</a>
- Orthopedics quiz app as freelancer
-</p>
-<p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.myhairapp" target="_blank">MyHair</a> Make hair purchases as freelancer
-</p>
-<p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.pompuarapp" target="_blank">Pompoar</a> For womans as freelancer
-</p>
-<p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.marcosmoraes" target="_blank">Marcos Moraes</a> Study for the contest (I refactored all the code and the agr app is in a new version) as freelancer
-</p>
-<p align="left">
- <a href="https://play.google.com/store/apps/details?id=com.carolina_bandeira_pacientes" target="_blank">Carolina bandeira</a> Franchise clinics as freelancer
-</p>
-<br />
 
-<br />
+### Contact
 
-<span align="left">
-
-## About my stuffs:
-
-<br />
-
-- 🛠 &nbsp; I'm currently working with React, React native, Swift, Node, Typescript, Mysql, Postgres, Mongodb, among other technologies.<br />
-- 👦🏽‍💻 &nbsp; My learning channels: RocketSeat, Udemy, Medium, Devmedia with that naughty force of Google and stackoverflow.<br/>
-- 💬 💌 &nbsp; Ask me something [here](https://github.com/rodrigogaraujo/rodrigogaraujo/issues/1)! I'm happy to help 😃.<br/>
-- 📫 &nbsp; Contact me: rodrigoaraujo990@gmail.com
-
-<br />
-
-## About the work:
-
-<br />
-- I've been working with react since november of 2019. <br />
-
-<br />
-
-## Linguagens e Ferramentas:
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img src="https://img.icons8.com/windows/32/000000/figma.png"/></code>
-<code><img height="35" src="https://img.icons8.com/dusk/64/000000/docker.png"/></code><br />
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
-<code><img height="35" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>
-<code><img height="35" src="https://img.icons8.com/ios-filled/50/000000/github.png"/></code>
-<code><img height="35" src="https://img.icons8.com/color/48/000000/typescript.png"/></code>
-
-<br />
-
-<details>
-  <br />
-    <summary><strong>🌟 Profile status</strong></summary>
-    <ul>
-        <li> <img width="400" src="https://github-readme-stats.vercel.app/api?username=rodrigogaraujo&show_icons=true&theme=tokyonight&line_height=27" alt="ProfileStatus"></li>
-        <li> <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogaraujo&hide=css,java,html&theme=tokyonight" alt="LanguageStatus"> </li>
-    </ul>
-</details>
-
-
+[LinkedIn](https://www.linkedin.com/in/rodrigo-g-araujo/) · [rodrigoaraujo990@gmail.com](mailto:rodrigoaraujo990@gmail.com)
