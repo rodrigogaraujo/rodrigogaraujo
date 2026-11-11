@@ -25,6 +25,11 @@ I build web, mobile and AI products end to end, from the database schema to the 
 - Built a satellite-pointing app used by Sky and Claro field technicians across Brazil.
 - Worked on a micro-frontend architecture (Single SPA) for Brazil's largest construtech, and on Heineken's trade portal and mobile app.
 
+### Open source
+
+- **[microsoft/playwright](https://github.com/microsoft/playwright)**: fixed the `TestInfo` example in the docs and type hints ([#44049](https://github.com/microsoft/playwright/pull/44049))
+- **[Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)**: IPv6 gRPC endpoint fix in `phoenix-otel` ([#17820](https://github.com/Arize-ai/phoenix/pull/17820)) and `PHOENIX_ALLOWED_ORIGINS` parsing fix ([#17840](https://github.com/Arize-ai/phoenix/pull/17840))
+
 ### Stack
 
 <p>
@@ -33,4 +38,4 @@ I build web, mobile and AI products end to end, from the database schema to the 
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/rodrigo-g-araujo/) · [rodrigoaraujo990@gmail.com](mailto:rodrigoaraujo990@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rodrigoaraujo-dev/) · [rodrigoaraujo990@gmail.com](mailto:rodrigoaraujo990@gmail.com)
